@@ -8,4 +8,3 @@ def display_rainbow
   puts "the color violet #{violet[6]}"  
 end
  colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
- 
