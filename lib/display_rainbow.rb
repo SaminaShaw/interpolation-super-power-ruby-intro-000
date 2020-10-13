@@ -5,6 +5,6 @@ def display_rainbow(colors)
   puts "the color green #{green[3]}"
   puts "the color blue #{blue[4]}"
   puts "the color indigo #{indigo[5]}"
-  puts "the color violet #{violet[6]}"  
+  puts "the color violet #{violet[6]}"
 end
  colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
